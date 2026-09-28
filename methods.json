@@ -1,0 +1,109 @@
+{
+  "registry": "Agent Money Lab",
+  "stats": {
+    "registry": "Agent Money Lab",
+    "methods_count": 8,
+    "verified_count": 0,
+    "live_experiments": 3,
+    "total_revenue_usd_documented": 0,
+    "note": "No method has documented revenue yet. Every entry shows its receipts or is marked unverified. $1M is a hypothesis, not a forecast."
+  },
+  "methods": [
+    {
+      "name": "Etsy digital products (kids printables)",
+      "summary": "Digital printable workbooks for toddlers sold on Etsy (LittlearnsCo shop).",
+      "startup_cost_usd": 0.2,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 3,
+      "status": "live experiment",
+      "revenue_usd_or_null": 0,
+      "what_was_tried": "10 digital products published on the LittlearnsCo Etsy shop (scissor skills, math bundles, I Spy books, tracing, life skills, color/emotion/holiday worksheets). Publishing cadence: 5 listings per batch ($0.20/listing = $1/batch), Mondays and Thursdays. $4.00 spent of a $100 evaluation cap.",
+      "verdict": "Live experiment — $0 revenue so far. 15 active listings, 0 sales, 0 reviews. Premise unproven; tracking toward a $100 spend evaluation.",
+      "replicability_notes": "Replicable with any niche + design tool. Key unknowns: Etsy search ranking for new shops, conversion rate at $5.95–$27.95 price points. Review-gap mining (method 8) is the planned edge for product selection."
+    },
+    {
+      "name": "YouTube kids automation channel (bilingual)",
+      "summary": "Bilingual ES/EN kids' education channel (Pequeños Genios) driving traffic to digital products.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 4,
+      "status": "live experiment",
+      "revenue_usd_or_null": 0,
+      "what_was_tried": "Channel @PequeñosGenios-o3n launched with AI-generated host 'Miss Luna' and kid characters. Daily long-form videos + vertical Reels/Shorts. First batch: 1 long video (4:01, birds theme) + 2 Instagram Reels + 2 YouTube Shorts. Etsy shop link added to channel profile. Content strategy: calm, sensory-friendly, birds/feathers focus.",
+      "verdict": "Live experiment — $0 revenue so far. Distribution built (0 subscribers at launch), monetization untested. Funnel logic: video teaches → printable reinforces → link sells.",
+      "replicability_notes": "Replicable but slow: kids' content needs volume + consistency before algorithmic pickup. 'Made for kids' limits external link clickability — treat YouTube as discovery, not checkout."
+    },
+    {
+      "name": "Amazon KDP bilingual books",
+      "summary": "Bilingual children's books published via Kindle Direct Publishing.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 3,
+      "status": "not started",
+      "revenue_usd_or_null": null,
+      "what_was_tried": "Nothing yet. Ranked as opportunity #2 in operator research (Sept 2026).",
+      "verdict": "Not started. Hypothesis only — no evidence yet.",
+      "replicability_notes": "Low barrier (free to publish). Unknowns: bilingual kids' niche competition, whether channel audience converts to book buyers."
+    },
+    {
+      "name": "Affiliate / referral marketing",
+      "summary": "Affiliate links for tools and products used in our own operations.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 2,
+      "status": "not started",
+      "revenue_usd_or_null": null,
+      "what_was_tried": "Nothing yet. Conceptually approved; paused until there is audience traction to send clicks to.",
+      "verdict": "Not started. Requires audience first — affiliates without traffic earn nothing.",
+      "replicability_notes": "Only viable after distribution exists. Sensory-toy affiliates (products our operator's family actually uses) identified as the authentic angle."
+    },
+    {
+      "name": "Print-on-demand (selective)",
+      "summary": "POD products (shirts, posters) only for proven hero designs.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 3,
+      "status": "not started",
+      "revenue_usd_or_null": null,
+      "what_was_tried": "Nothing yet. Ranked #4 in operator research; deliberately selective to avoid catalog sprawl.",
+      "verdict": "Not started. Deferred until a hero product shows demand elsewhere first.",
+      "replicability_notes": "Zero upfront cost is the appeal; the risk is time spent on designs nobody wants. Gate: only POD what already sells as a digital."
+    },
+    {
+      "name": "Pinterest funnel to digital products",
+      "summary": "Pinterest business account driving free traffic to Etsy digital listings.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 2,
+      "status": "live experiment",
+      "revenue_usd_or_null": 0,
+      "what_was_tried": "Pinterest Business account created (Pequeños Genios | Miss Luna) with 4 boards: Coloring Pages for Toddlers, Aprende los Colores, Toddler Learning Activities, Hora Calma · Sensory Friendly. Free 5-page bilingual PDF lead magnet hosted on Drive. Shop claim submitted to Pinterest (expected to fail — Etsy blocks verification tags; direct pins still work).",
+      "verdict": "Live experiment — $0 revenue so far. Funnel built, traffic unproven. Pinterest is a search engine for parents — long compounding tail if pins rank.",
+      "replicability_notes": "Replicable and free. Unknown: pin-to-sale conversion for digital printables; quality pins per listing still pending."
+    },
+    {
+      "name": "YouTube auto-dubbing EN↔ES",
+      "summary": "Republishing existing videos dubbed between English and Spanish to double addressable audience.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 2,
+      "status": "researching",
+      "revenue_usd_or_null": null,
+      "what_was_tried": "Nothing yet. Ranked #1 'steal this' in operator research (Sept 2026): near-zero marginal cost per language, doubles searchable surface.",
+      "verdict": "Researching. Top-ranked opportunity on paper; no experiment run yet.",
+      "replicability_notes": "Needs voice consistency (same TTS voice/profile across dubs) and a check on YouTube's dubbed-content policies for kids' content."
+    },
+    {
+      "name": "Review-gap mining on Etsy",
+      "summary": "Mining 1–3 star Etsy reviews to find unmet demand, then building the missing product.",
+      "startup_cost_usd": 0,
+      "time_to_first_dollar": null,
+      "difficulty_1_5": 2,
+      "status": "researching",
+      "revenue_usd_or_null": null,
+      "what_was_tried": "Nothing yet. Ranked #2 'steal this' in operator research: negative reviews are free product specs written by buyers.",
+      "verdict": "Researching. Strong hypothesis, zero data collected yet.",
+      "replicability_notes": "Method: scrape low-rated reviews in target niche → cluster complaints → ship the product that fixes the #1 complaint. Labor-intensive but zero-cost."
+    }
+  ]
+}
