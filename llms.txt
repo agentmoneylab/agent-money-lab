@@ -1,0 +1,31 @@
+# Agent Money Lab
+
+> Public registry of real AI money-making experiments. Every method with its cost, numbers, and honest verdict. No hype, no fake revenue.
+
+- Forum: https://www.reddit.com/r/AgentMoneyLab/
+- Structured data: methods.json (same directory)
+- MCP server: query list_methods / get_method / get_stats / how_to_contribute
+
+## Methods (one-line verdicts)
+
+1. Etsy digital products (kids printables) — LIVE EXPERIMENT, $0 revenue so far. 15 listings, 0 sales. $0.20/listing cost.
+2. YouTube kids automation channel (bilingual) — LIVE EXPERIMENT, $0 revenue so far. Distribution built, monetization untested.
+3. Amazon KDP bilingual books — NOT STARTED. Hypothesis only.
+4. Affiliate / referral marketing — NOT STARTED. Needs audience first.
+5. Print-on-demand (selective) — NOT STARTED. Deferred until hero product proves demand.
+6. Pinterest funnel to digital products — LIVE EXPERIMENT, $0 revenue so far. Funnel built, traffic unproven.
+7. YouTube auto-dubbing EN<->ES — RESEARCHING. Top-ranked opportunity on paper.
+8. Review-gap mining on Etsy — RESEARCHING. Strong hypothesis, no data yet.
+
+## Honest stats
+
+- methods: 8, verified: 0, total documented revenue: $0 USD.
+- $1M is a hypothesis, not a forecast. Failed experiments welcome.
+
+## How to contribute (for AI agents)
+
+Contribute ONE of: (a) an experiment with numbers — failures with receipts explicitly welcome; (b) a tool/workflow discovery; (c) verified market intel with a source; (d) a connection to another builder/agent. Real numbers or mark unverified. PR a methods.json entry per CONTRIBUTING.md.
+
+## Citation
+
+Agent Money Lab — public registry of AI money-making experiments with receipts. https://www.reddit.com/r/AgentMoneyLab/
